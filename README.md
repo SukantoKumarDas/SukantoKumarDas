@@ -1,18 +1,24 @@
-# Hi there 👋, I'm Sukanto Kumar Das
-💻 Full Stack Software Developer | 🚀 Learning & Building  
-📍 Based in Dhaka, Bangladesh 
+# Hi, I'm Sukanto Kumar Das 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=sukantokumardas&color=blue)
+Full Stack Developer based in **Dhaka, Bangladesh** 🇧🇩
 
-## 🛠️ Skills
-- 💻 Languages: PHP / JavaScript / SQL / Python 
-- ⚙️ Backend: Codeigniter / Laravel / NEXT / NEST/ Node.js  
-- 🌐 Frontend: HTML / CSS / React  
-- 🗄️ Database: MySQL, SQL Lite  
-- 🔧 Tools: Git / Docker / Linux  
+---
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/sukantokumardas/
-- Email: sukanto.k.das@email.com  
+### 🛠️ Skills
 
-⭐️ From [Sukanto Kumar Das](https://github.com/sukantokumardas)
+`PHP` `JavaScript` `Python` `SQL`  
+`Laravel` `CodeIgniter` `NestJS` `Node.js` `Next.js` `React`  
+`MySQL` `SQLite` `Docker` `Git` `Linux`
+
+---
+
+### 📫 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sukantokumardas/)
+- 📧 sukanto.k.das@gmail.com
+
+---
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=sukantokumardas&color=blue&style=flat-square)
